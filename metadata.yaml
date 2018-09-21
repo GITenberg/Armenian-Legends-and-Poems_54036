@@ -18,7 +18,12 @@ contributor:
     agent_name: Raffi, Aram
     gutenberg_agent_id: '49665'
     url: http://www.gutenberg.org/2009/agents/49665
+covers:
+- cover_type: archival
+  image_path: 54036-h/images/frontcover.jpg
 description: Illustrated by the compiler.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54036#Armenian-Legends-and-Poems
 gutenberg_issued: '2017-01-21'
 gutenberg_type: Text
 identifiers:
